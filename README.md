@@ -2,7 +2,7 @@
 Sonic Classic Engine (or SCE) as the name says is a classic sonic engine, it like the rsdk but more beginner friendly. still in development.
 
 
-Changelogs:
+Devlogs:
 ### 1:
 make the engine folder full, and the engine core is gonna make
 
