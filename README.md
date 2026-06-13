@@ -10,4 +10,4 @@ make the engine folder full, and the engine core is gonna make
 the engine website is coming
 
 ### 3:
-sorry for this taking so long, i really not want to take that long but i cant start because i dont know how to start and the sonic physics its really hard and i do not know what programing linguage uses, can anyone help me to find one? well you can vote here but you can also susgest(by the way the engine is NOT canceled, this engine is the project of my LIFE): [vote here] (https://gamejolt.com/p/a-making-a-engine-from-scratch-and-i-need-to-know-what-programming-isi7fxwn)
+sorry for this taking so long, i really not want to take that long but i cant start because i dont know how to start and the sonic physics its really hard and i do not know what programing linguage uses, can anyone help me to find one? well you can vote here but you can also susgest(by the way the engine is NOT canceled, this engine is the project of my LIFE): https://gamejolt.com/p/a-making-a-engine-from-scratch-and-i-need-to-know-what-programming-isi7fxwn
