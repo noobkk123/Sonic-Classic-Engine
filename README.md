@@ -3,3 +3,4 @@ Sonic Classic Engine (or SCE) as the name says is a classic sonic engine, it lik
 
 
 the devlogs are moved to the website
+https://noobkk123.github.io/Sonic-Classic-Engine/
